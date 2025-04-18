@@ -1,5 +1,4 @@
-# CSFL_project
-Here's a detailed and polished `README.md` file for your CSFL project on **Heart Disease Risk Prediction using Fuzzy Logic**:
+ **Heart Disease Risk Prediction using Fuzzy Logic**:
 
 ---
 
